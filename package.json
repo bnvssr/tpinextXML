@@ -1,0 +1,11 @@
+{
+  "name": "tpinextxml",
+  "version": "1.0.0",
+  "description": "show tpi next XML file ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Visser",
+  "license": "ISC"
+}

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/tpinext.xsl" ?>
+  <tpinext>
+    <basedata>
+      <keyareas>
+        <keyarea nbr="01" name="Stakeholder commitment">
+          <statements>
+            <statement level="overall">Committed and proactive stakeholders create good conditions for efficient communication and cooperation.</statement>
+            <statement level="controlled">Stakeholders commit to and support the test process by granting and delivering negotiated resources.</statement>
+            <statement level="efficient">Stakeholders anticipate the implications of changes, thus enabling the test process to respond adequately.</statement>
+            <statement level="optimizing">Stakeholders recognize and stimulate process improvement as a shared responsibility</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="02" name="Degree of involvement">
+          <statements>
+            <statement level="overall">Tight involvement of testing in the project helps to improve the product quality from the beginning, and helps to keep test activities off the project’s critical path.</statement>
+            <statement level="controlled">Test activities are started up early to enable systematic preparations.</statement>
+            <statement level="efficient">The involvement of testing enables reliable test process output and prevention of defects.</statement>
+            <statement level="optimizing">The involvement of testing in the project makes it possible to optimize both the project and the test process.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="03" name="Test strategy">
+          <statements>
+            <statement level="overall">The test strategy guides the test process towards an optimal allocation of effort and resources.</statement>
+            <statement level="controlled">The test strategy enables the distribution of the test efforts and resources among the test levels and test activities.</statement>
+            <statement level="efficient">The test strategy is used to achieve the adequate balance between analyzed product risks, test coverage and available efforts and resources, involving all stakeholders.</statement>
+            <statement level="optimizing">The method of the test strategy is maintained well to ensure easy and valid application.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="04" name="Test organization">
+          <statements>
+            <statement level="overall">A test organization meets the needs of projects for test resources, test products and test services.</statement>
+            <statement level="controlled">A test organization enables uniformity in test approach, test products and procedures, agreements and clear test results.</statement>
+            <statement level="efficient">A test organization enables the right test expertise and experience at the right place.</statement>
+            <statement level="optimizing">A test organization leads to continuously improved results by test services.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="05" name="Communication">
+          <statements>
+            <statement level="overall">Distinct communication ensures common understanding and alignment of expectations between all parties involved.</statement>
+            <statement level="controlled">Communication of information to all involved makes it possible to take the appropriate decisions.</statement>
+            <statement level="efficient">Concise form and content of information for the target audience contributes to more productive work.</statement>
+            <statement level="optimizing">Communication is a means for team building.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="06" name="Reporting">
+          <statements>
+            <statement level="overall">Reporting provides stakeholders with insight to support the decision making process and test project accounting.</statement>
+            <statement level="controlled">The test team and stakeholders agree on what is reported and how, thus preventing a lack of information or an information overload.</statement>
+            <statement level="efficient">Reporting is tuned to specific target groups to support the decision making process.</statement>
+            <statement level="optimizing">Reporting provides information that can be used to optimize the software development lifecycle.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="07" name="Test process management">
+          <statements>
+            <statement level="overall">Managing the test process maximizes the execution of the test assignment within the required time, costs, and results.</statement>
+            <statement level="controlled">Proactive management of the test process enables the fulfillment of the test assignment.</statement>
+            <statement level="efficient">Managing the test process with clear authorizations makes instant adjustments possible to keep the test project on track.</statement>
+            <statement level="optimizing">Lessons learned on test process management advance the effectiveness and efficiency of steering test projects to their required end result.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="08" name="Estimating and planning">
+          <statements>
+            <statement level="overall">The proper use of appropriate estimating and planning techniques makes the test process planning and estimating predictable and reliable.</statement>
+            <statement level="controlled">The amount of resources per activity required is predicted.</statement>
+            <statement level="efficient">Formal techniques make estimating and planning reliable.</statement>
+            <statement level="optimizing">Estimating is based on experience data from the organization.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="09" name="Metrics">
+          <statements>
+            <statement level="overall">Metrics provide objectivity by quantifying observations.</statement>
+            <statement level="controlled">With the defined metrics it is possible to estimate and monitor the test process.</statement>
+            <statement level="efficient">The provided objectivity through metrics outweighs the effort of collecting and analyzing the measurement data.</statement>
+            <statement level="optimizing">Metrics meet the ever changing information need.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="10" name="Defect management">
+          <statements>
+            <statement level="overall">Defect management treats defects both at an individual level and at a group level where root causes are analyzed and guidelines are available.</statement>
+            <statement level="controlled">Defects are tracked at an individual level and defect status is monitored.</statement>
+            <statement level="efficient">Common aspects of defects are analyzed to find similar defects.</statement>
+            <statement level="optimizing">Defects are analyzed for common properties to avoid future defects.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="11" name="Testware management">
+          <statements>
+            <statement level="overall">Testware managememnt ensures coherence between test artifacts, and between test artifacts and their related design documents.</statement>
+            <statement level="controlled">All used test and design documents in an approved state, are individually identified and registered.</statement>
+            <statement level="efficient">The relations between all (test) artifacts are known and kept up to date.</statement>
+            <statement level="optimizing">Testware is made available for reuse in furture test projects and actually reused.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="12" name="Methodology practice">
+          <statements>
+            <statement level="overall">A described method for testing directs and supports the test projects.</statement>
+            <statement level="controlled">A described test method enables predictable execution of test activities.</statement>
+            <statement level="efficient">The described test method provides practical support for the test projects.</statement>
+            <statement level="optimizing">Deviations from the test method are evaluated and lead to enhancing the method.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="13" name="Tester professionalism">
+          <statements>
+            <statement level="overall">Tester professionalism includes the right mix of the various skills, competences, disciplines, functions and knowledge that are necessary to perform test activities to the levels expected.</statement>
+            <statement level="controlled">With specific test method skills and competences the tester makes the test process more predictable and manageable.</statement>
+            <statement level="efficient">Test personnel have a dedicated role or function for testing and they fulfill their task in line with expectations.</statement>
+            <statement level="optimizing">Test personnel act from a Quality Assurance point of view thus constantly developing and improving their skills.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="14" name="Test case design">
+          <statements>
+            <statement level="overall">Test case design directs test execution to search for defects according to the test strategy.</statement>
+            <statement level="controlled">The test cases make the test execution repeatable and person independent.</statement>
+            <statement level="efficient">Designing test cases that focus on achieving a specific coverage provides a justified elaboration of the test strategy.</statement>
+            <statement level="optimizing">Evaluation of test cases, test design techniques and defects provides a way to increase test effectiveness.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="15" name="Test tools">
+          <statements>
+            <statement level="overall">Test tools enable or accelerate specific test activities.</statement>
+            <statement level="controlled">Test tools needed to execute specific test activities are available and used.</statement>
+            <statement level="efficient">Test tools are used to accelerate specific test activities.</statement>
+            <statement level="optimizing">Test tools, and their use, are continuously evaluated and improved.</statement>
+          </statements>
+        </keyarea>
+        <keyarea nbr="16" name="Test environment">
+          <statements>
+            <statement level="overall">The test environment is explicitly designed, implemented and maintained with the goals of the test level in mind.</statement>
+            <statement level="controlled">Changes to the test environment do not happen unexpectedly.</statement>
+            <statement level="efficient">Test tools are used to accelerate specific test activities.</statement>
+            <statement level="optimizing">Test environments are offered as a service to testers.</statement>
+          </statements>
+        </keyarea>
+      </keyareas>
+      <checkpoints>
+        <checkpoint id="1C1" ka="ka01">The principal stakeholder is defined (not necessarily documented) and known to the testers.</checkpoint>
+        <checkpoint id="1C2" ka="ka01">Budget for test resources is granted by and negotiable with the principal stakeholder.</checkpoint>
+        <checkpoint id="1C3" ka="ka01">Stakeholders actually deliver the committed resources.</checkpoint>
+        <checkpoint id="1C4" ka="ka01">The principal stakeholder is responsible for a documented product risk analysis (the input for the test strategy).</checkpoint>
+        <checkpoint id="1E1" ka="ka01">All relevant stakeholder are defined (not necessarily documented) and known to the testers.</checkpoint>
+        <checkpoint id="1E2" ka="ka01">Stakeholders actively acquire information on the quality of both the test process and the test object.</checkpoint>
+        <checkpoint id="1E3" ka="ka01">The stakeholders proactively take action on aspects that affect the test process. This includes changes in the delivery sequence of the test object and changes in the project scope.</checkpoint>
+        <checkpoint id="1O1" ka="ka01">Line management acknowledges that test process improvement comes with the need for increased learning time for which resources are provided.</checkpoint>
+        <checkpoint id="1O2" ka="ka01">Stakeholders are willing to adapt their way of working to suit the test process. This includes the software development and requirements management.</checkpoint>
+        <checkpoint id="1O3" ka="ka01">An adapted way of working by the stakeholder to suit demands of the test process is jointly evaluated by the test organization and the stakeholder.</checkpoint>
+        <checkpoint id="2C1" ka="ka02">The test assignment, scope and approach are negotiated early with the principal stakeholder as one of the first test activities.</checkpoint>
+        <checkpoint id="2C2" ka="ka02">Test activities are started early, timely before test execution, with the goal of keeping the test activities of the project's critical path.</checkpoint>
+        <checkpoint id="2C3" ka="ka02">A tester is involved in project planning: dependencies between the test process and other processes are taken into account.</checkpoint>
+        <checkpoint id="2C4" ka="ka02">A tester is involved in the analysis and mitigation of overall project risks.</checkpoint>
+        <checkpoint id="2E1" ka="ka02">Testers contribute to impact and risk analysis of change requests and changes to the test basis.</checkpoint>
+        <checkpoint id="2E2" ka="ka02">Testers contribute to the impact analysis of defects.</checkpoint>
+        <checkpoint id="2E3" ka="ka02">Testers are actively involved in optimizing the test basis (more than a testability review), in which the object under test is described.</checkpoint>
+        <checkpoint id="2O1" ka="ka02">The test team is involved in the evaluation of the project. The lessons learned from the test process are valued and used for (the set up of) future projects.</checkpoint>
+        <checkpoint id="2O2" ka="ka02">The test team has an undisputed part in all relevant development activities, being accepted and valued.</checkpoint>
+        <checkpoint id="3C1" ka="ka03">The principal stakeholder agrees with the documented test strategy.</checkpoint>
+        <checkpoint id="3C2" ka="ka03">The test strategy is based on a product risk analysis.</checkpoint>
+        <checkpoint id="3C3" ka="ka03">There is a differentiation in test levels, test types, test coverage and test depth, depending on the analyzed risks.</checkpoint>
+        <checkpoint id="3C4" ka="ka03">For retests and regression testing a simple strategy determination takes place.</checkpoint>
+        <checkpoint id="3E1" ka="ka03">All relevant stakeholders agree with the defined (and documented) test strategy.</checkpoint>
+        <checkpoint id="3E2" ka="ka03">The overlap or gaps in test coverage between test levels or test types are well considered.</checkpoint>
+        <checkpoint id="3E3" ka="ka03">The test strategy includes adequate test design techniques.</checkpoint>
+        <checkpoint id="3O1" ka="ka03">The process of creating the test strategy is evaluated regularly and, where necessary, adapted for future use.</checkpoint>
+        <checkpoint id="3O2" ka="ka03">The test strategy itself is evaluated against metrics on incidents that occur in production.</checkpoint>
+        <checkpoint id="4C1" ka="ka04">People involved know where to find the persons (or department) responsible for test services.</checkpoint>
+        <checkpoint id="4C2" ka="ka04">There is a structure of control and accountability within the test organization.</checkpoint>
+        <checkpoint id="4C3" ka="ka04">Test tasks and responsibilities are defined (and documented) and are assigned to a person or organizational unit.</checkpoint>
+        <checkpoint id="4C4" ka="ka04">The products and services of the test organization are clear to its clients.</checkpoint>
+        <checkpoint id="4E1" ka="ka04">Different persons or departments that provide test services reconcile the organizing of their test work.</checkpoint>
+        <checkpoint id="4E2" ka="ka04">The test organization provides the agreed test resources and services to the projects.</checkpoint>
+        <checkpoint id="4E3" ka="ka04">A well considered choice has been made as where and how to position the test organization.</checkpoint>
+        <checkpoint id="4E4" ka="ka04">The test policy is followed.</checkpoint>
+        <checkpoint id="4O1" ka="ka04">The products and services of the test organization are regularly evaluated; new services are added when they are cost-effective.</checkpoint>
+        <checkpoint id="4O2" ka="ka04">The test organization is held accountable for success and failure of test assignments.</checkpoint>
+        <checkpoint id="4O3" ka="ka04">The test organization performance is regularly compared with external suppliers or similar test organizations.</checkpoint>
+        <checkpoint id="5C1" ka="ka05">Every team member is aware of decisions being made and of internal progress.</checkpoint>
+        <checkpoint id="5C2" ka="ka05">The test team actively gathers relevant information from stakeholders.</checkpoint>
+        <checkpoint id="5C3" ka="ka05">It is possible to trace back points of action, agreements and decisions of the test team.</checkpoint>
+        <checkpoint id="5C4" ka="ka05">The test team deliberates with stakeholders about progress, product quality and risks and signals proactively potential delays as well.</checkpoint>
+        <checkpoint id="5E1" ka="ka05">The test team identifies which information needs to be shared with which stakeholder.</checkpoint>
+        <checkpoint id="5E2" ka="ka05">The test team participates in relevant meetings with other stakeholders.</checkpoint>
+        <checkpoint id="5E3" ka="ka05">The test team has the different (communication) means necessary to its disposal to communicate with its stakeholders using an appropriate form.</checkpoint>
+        <checkpoint id="5O1" ka="ka05">Best practices and lessons learned regarding communication and its efficiency are evaluated during and at the end of a test project for future purposes.</checkpoint>
+        <checkpoint id="5O2" ka="ka05">The organization investigates the use of new means of communication and defines policies.</checkpoint>
+        <checkpoint id="6C1" ka="ka06">The reporting contains aspects of time and/or costs, results and risks.</checkpoint>
+        <checkpoint id="6C2" ka="ka06">The reporting frequency and content matches the basic demands of stakeholders for the decision making process.</checkpoint>
+        <checkpoint id="6C3" ka="ka06">Reporting is done in writing.</checkpoint>
+        <checkpoint id="6E1" ka="ka06">Fulfilling the reporting demands of stakeholders, needed for an efficient decision making process, is balanced against the effort for providing it.</checkpoint>
+        <checkpoint id="6E2" ka="ka06">The reporting contains trends and recommendations concerning test process progress and project risks.</checkpoint>
+        <checkpoint id="6E3" ka="ka06">The reporting contains trends and recommendations concerning test goals and product risks.</checkpoint>
+        <checkpoint id="6O1" ka="ka06">Reporting provides data and/or measurements that can be used for current and future improvements of the test process and the software development lifecycle.</checkpoint>
+        <checkpoint id="6O2" ka="ka06">The data and/or measurements for software process improvement are handed over to a line organization at the test project closure.</checkpoint>
+        <checkpoint id="7C1" ka="ka07">At the start of the test project a test plan is created. The test plan includes at least the test assignment, the test scope, the test planning, the roles and responsibilities.</checkpoint>
+        <checkpoint id="7C2" ka="ka07">The test plan is agreed with the principal stakeholder.</checkpoint>
+        <checkpoint id="7C3" ka="ka07">Each test activity is monitored and when necessary adjustments are initiated.</checkpoint>
+        <checkpoint id="7C4" ka="ka07">The test plan is agreed with the relevant stakeholders.</checkpoint>
+        <checkpoint id="7E1" ka="ka07">(Anticipated) Deviations of the test plan are discussed with the principal stakeholder and other relevant stakeholders.</checkpoint>
+        <checkpoint id="7E2" ka="ka07">Adjustments to the test plan are documented.</checkpoint>
+        <checkpoint id="7E3" ka="ka07">The test lead has a delegated mandate for the (re-)allocation of resources.</checkpoint>
+        <checkpoint id="7O1" ka="ka07">Test process management is regularly evaluated, internally (by the test organization) and with stakeholders.</checkpoint>
+        <checkpoint id="7O2" ka="ka07">Lessons learned from earlier test projects are used for improving test process management.</checkpoint>
+        <checkpoint id="8C1" ka="ka08">For test effort estimation, simple techniques are used such as ratios.</checkpoint>
+        <checkpoint id="8C2" ka="ka08">For each test activity there is an indication of the period in which it runs, the resources required and the products to be delivered. Activities to be identified are: test planning and management, defining test cases and executing test cases.</checkpoint>
+        <checkpoint id="8C3" ka="ka08">The dependencies between test phases or test activities are plotted in a test planning. A certain overlap of test phases and test activities is allowed.</checkpoint>
+        <checkpoint id="8C4" ka="ka08">Test estimations and test planning are discussed with the principal stakeholder.</checkpoint>
+        <checkpoint id="8E1" ka="ka08">To be as accurate as possible, at least two estimating techniques are used.</checkpoint>
+        <checkpoint id="8E2" ka="ka08">The test phases and/or test activities are estimated and planned, using formal techniques.</checkpoint>
+        <checkpoint id="8E3" ka="ka08">Metrics are used to support the estimating and planning activities.</checkpoint>
+        <checkpoint id="8E4" ka="ka08">The test planning includes a testability review of the test basis and the evaluation of the test project.</checkpoint>
+        <checkpoint id="8O1" ka="ka08">The test planning includes the conservation of testware for future reuse.</checkpoint>
+        <checkpoint id="8O2" ka="ka08">A set of estimation techniques and principles are maintained at an organizational level.</checkpoint>
+        <checkpoint id="8O3" ka="ka08">Key figures/data for the defined estimation techniques are provided at an organizational level.</checkpoint>
+        <checkpoint id="9C1" ka="ka09">In the test process metrics are defined and used to estimate and control the test project.</checkpoint>
+        <checkpoint id="9C2" ka="ka09">The necessary input for the metrics is recorded uniformly and the defined metrics are systematically stored.</checkpoint>
+        <checkpoint id="9C3" ka="ka09">The input (data) for metrics is provably accurate.</checkpoint>
+        <checkpoint id="9E1" ka="ka09">The required effort to collect, analyze and value the necessary data is measured against the benefits.</checkpoint>
+        <checkpoint id="9E2" ka="ka09">Collecting metrics does not conflict with the progress and quality of the test process.</checkpoint>
+        <checkpoint id="9E3" ka="ka09">In the test process metrics are defined and used to measure the efficiency of the test process.</checkpoint>
+        <checkpoint id="9E4" ka="ka09">Conclusions coming from analyzed metrics are discussed with stakeholders and are acted upon.</checkpoint>
+        <checkpoint id="9O1" ka="ka09">The way metrics contribute to the information need is monitored.</checkpoint>
+        <checkpoint id="9O2" ka="ka09">Changes in information need lead to new or optimization of metrics.</checkpoint>
+        <checkpoint id="10C1" ka="ka10">The defect lifecycle is defined (including a retest) and applied.</checkpoint>
+        <checkpoint id="10C2" ka="ka10">The following items are recorded for each defect: unique ID, related test case ID (if applicable), person reporting the defect, date, severity category, description (the actions to reproduce the defect, expected and observed result) and defect status.</checkpoint>
+        <checkpoint id="10C3" ka="ka10">For further handling of defects the responsibilities are defined.</checkpoint>
+        <checkpoint id="10C4" ka="ka10">All those involved in assessing and solving defects have access to the relevant defect management tool.</checkpoint>
+        <checkpoint id="10E1" ka="ka10">The defect management tool enforces the authorization structure for status transitions of defects.</checkpoint>
+        <checkpoint id="10E2" ka="ka10">All persons involved in logging and/or tracking defects use the same defect management tool or separate defect management tools with a seamless connection.</checkpoint>
+        <checkpoint id="10E3" ka="ka10">The defect administration lends itself for extensive reporting possibilities, which means that reports can be selected and sorted in different ways.</checkpoint>
+        <checkpoint id="10E4" ka="ka10">Trends are identified. For this, more information is recorded about a defect, the subsystem, priority, program and version, test basis and version, root cause, all status transitions and problem solver.</checkpoint>
+        <checkpoint id="10O1" ka="ka10">A set of guidelines for defect management is provided by the line organization or project management, and used for each test project.</checkpoint>
+        <checkpoint id="10O2" ka="ka10">Defect management is the responsibility of the line or project organization, where the test process provides the necessary data.</checkpoint>
+        <checkpoint id="10O3" ka="ka10">Defects are analyzed for common properties and recommendations are made to avoid future defects.</checkpoint>
+        <checkpoint id="11C1" ka="ka11">The test basis, the test object and all testware are identified by name and version.</checkpoint>
+        <checkpoint id="11C2" ka="ka11">Each test case is related to a test basis document in a transparent way.</checkpoint>
+        <checkpoint id="11C3" ka="ka11">The test team has access to all items under testware management.</checkpoint>
+        <checkpoint id="11C4" ka="ka11">The procedure by which testware, the test basis and the test object are managed is explicitly laid down and known to the test team.</checkpoint>
+        <checkpoint id="11E1" ka="ka11">The test basis, the test object and all testware are referenced by name and version.</checkpoint>
+        <checkpoint id="11E2" ka="ka11">Traceability is provided between test cases and the requirements.</checkpoint>
+        <checkpoint id="11E3" ka="ka11">Testware management is supported by a logical storage structure, roles and an authorization structure.</checkpoint>
+        <checkpoint id="11O1" ka="ka11">It is agreed at test project start and rethought during the test project which testware will be conserved at the closure of the test project. </checkpoint>
+        <checkpoint id="11O2" ka="ka11">Guidelines for conserving testware for reuse are available and the reuse of testware is measured.</checkpoint>
+        <checkpoint id="11O3" ka="ka11">At the end of the project, the testware that will be handed over to maintenance is easily separable from the testware that is not going to be maintained.</checkpoint>
+        <checkpoint id="12C1" ka="ka12">The test process follows a documented test method: the test method describes a set of test activities, the test products delivered by the test project and additional requirements on the way of working.</checkpoint>
+        <checkpoint id="12C2" ka="ka12">The test method fits the development method applied by the project.</checkpoint>
+        <checkpoint id="12C3" ka="ka12">The test projects consider the implemented test method to be of practical use.</checkpoint>
+        <checkpoint id="12E1" ka="ka12">The test method describes for all test activities the goal, the responsible role, any techniques to be used and preconditions.</checkpoint>
+        <checkpoint id="12E2" ka="ka12">A complete and comprehensive set of templates is provided as part of the test method.</checkpoint>
+        <checkpoint id="12E3" ka="ka12">Mandatory, conditional and optional elements of the test method are indicated.</checkpoint>
+        <checkpoint id="12E4" ka="ka12">The mandatory and conditional elements are put into practice.</checkpoint>
+        <checkpoint id="12O1" ka="ka12">Test teams structurally provide feedback regarding the test method.</checkpoint>
+        <checkpoint id="12O2" ka="ka12">The implemented test method is continuously enhanced and improved.</checkpoint>
+        <checkpoint id="13C1" ka="ka13">Testers have received specific test training and/or have sufficient experience in the field of structured testing.</checkpoint>
+        <checkpoint id="13C2" ka="ka13">Testers are familiar with the adopted test method and they apply it.</checkpoint>
+        <checkpoint id="13C3" ka="ka13">All required expertise - whether industry, business or technical - is available to the test team.</checkpoint>
+        <checkpoint id="13C4" ka="ka13">Testers are regularly evaluated on specific testing skills as well as general IT abilities in an employee performance appraisal.</checkpoint>
+        <checkpoint id="13E1" ka="ka13">Testers are certified in testing (such as TMap Next or ISTQB).</checkpoint>
+        <checkpoint id="13E2" ka="ka13">Testers can explain the rationale behind chosen techniques that have been applied.</checkpoint>
+        <checkpoint id="13E3" ka="ka13">Test personnel enjoy their job and have a good relationship with other skill groups in the project.</checkpoint>
+        <checkpoint id="13E4" ka="ka13">Test tasks are defined, allocated and executed in line with expectations.</checkpoint>
+        <checkpoint id="13O1" ka="ka13">Testers actively participate in Special Interest Groups, attend test seminars or read test literature to keep their skills up to date.</checkpoint>
+        <checkpoint id="13O2" ka="ka13">Test functions are part of the organization’s Human Resource Management and personal career development.</checkpoint>
+        <checkpoint id="13O3" ka="ka13">Testers strive towards accountability and responsibility for their own work and continuous improvement of their work process.</checkpoint>
+        <checkpoint id="14C1" ka="ka14">The test cases are recorded on a logical level.</checkpoint>
+        <checkpoint id="14C2" ka="ka14">The test cases consist of a description of: a) initial situation, b) change process = test actions to be performed, c) predicted result.</checkpoint>
+        <checkpoint id="14C3" ka="ka14">The test cases provide insight into which part of the test basis, describing a specific system behavior, is subject to the test.</checkpoint>
+        <checkpoint id="14E1" ka="ka14">The test cases are understandable to and maintainable by peers within the test organization.</checkpoint>
+        <checkpoint id="14E2" ka="ka14">The coverage level of the test basis - as reached by the test cases - is known.</checkpoint>
+        <checkpoint id="14E3" ka="ka14">Formal test design techniques are used to design test cases.</checkpoint>
+        <checkpoint id="14E4" ka="ka14">Checklists are used for the testing of quality characteristics for which no test cases can be designed.</checkpoint>
+        <checkpoint id="14O1" ka="ka14">Defects that occur in the next phase (the next test level or production) are being analyzed, leading to improvements in the accuracy and effectiveness of test cases.</checkpoint>
+        <checkpoint id="14O2" ka="ka14">Test cases are checked and evaluated independently on validity and maintainability.</checkpoint>
+        <checkpoint id="14O3" ka="ka14">The test design techniques are evaluated and adjusted for further re-use.</checkpoint>
+        <checkpoint id="15C1" ka="ka15">The test tools needed to execute specific test activities and to reach the test goals are available to and used by the test team.</checkpoint>
+        <checkpoint id="15C2" ka="ka15">Knowledge about the test tools in use is available.</checkpoint>
+        <checkpoint id="15C3" ka="ka15">Everyone involved, including the purchasing entity, considers the specific test tool used to be beneficial.</checkpoint>
+        <checkpoint id="15E1" ka="ka15">Test tools currently used have been selected for testing faster, cheaper, better or making the test process better manageable.</checkpoint>
+        <checkpoint id="15E2" ka="ka15">The test tools are at the testers disposal at any required moment.</checkpoint>
+        <checkpoint id="15E3" ka="ka15">A business case has been created for each introduced test tool within the test process.</checkpoint>
+        <checkpoint id="15E4" ka="ka15">The use of these test tools is integrated in the test process.</checkpoint>
+        <checkpoint id="15O1" ka="ka15">The tool policy is created and kept synchronized with the existing test policy.</checkpoint>
+        <checkpoint id="15O2" ka="ka15">The expertise, best practices and test tools products are collected and published for future projects.</checkpoint>
+        <checkpoint id="15O3" ka="ka15">Test tools are regularly evaluated on reaching the goals that have been set in the business case for implementing the test tool and the test tool policy.</checkpoint>
+        <checkpoint id="16C1" ka="ka16">Test environment requirements are documented.</checkpoint>
+        <checkpoint id="16C2" ka="ka16">Working agreements are made with the parties supplying the test environment. These agreements contain tasks and responsibilities.</checkpoint>
+        <checkpoint id="16C3" ka="ka16">The test environment is available to the test team during the agreed time.</checkpoint>
+        <checkpoint id="16C4" ka="ka16">The test manager is timely informed whenever a change to the test environment is planned.</checkpoint>
+        <checkpoint id="16E1" ka="ka16">Acceptance of the test environment takes place using a checklist created in advance.</checkpoint>
+        <checkpoint id="16E2" ka="ka16">A logical or functional design of the test environment is put together. It addresses applications, systems and their connections, and the use of stubs and drivers (mock-ups).</checkpoint>
+        <checkpoint id="16E3" ka="ka16">Supplying parties deliver a technical design of the test environment that is formally accepted by the test manager or the test environment specialist.</checkpoint>
+        <checkpoint id="16E4" ka="ka16">Agreements with supplying parties have a Service Level Agreement nature.</checkpoint>
+        <checkpoint id="16O1" ka="ka16">The ownership of test environments lies with a distinct department.</checkpoint>
+        <checkpoint id="16O2" ka="ka16">Usage of test environments is laid down in a standard contract.</checkpoint>
+        <checkpoint id="16O3" ka="ka16">Services in scope and out of scope with regard to test environments are laid down in a Service Catalogue.</checkpoint>
+      </checkpoints>
+    </basedata>
+    <tpinextassessments>
+      <tpinextassessment id="001" language="en">
+        <metadata>
+          <Project>project</Project>
+          <Assessor>assessor</Assessor>
+          <Domain>domein</Domain>
+          <Subdomain>subdomein</Subdomain>
+          <CompanyName>bedrijfsnaam</CompanyName>
+          <Department>afdeling</Department>
+          <PrincipleStakeholder>opdrachtgever</PrincipleStakeholder>
+          <ContactPerson>contactpersoon</ContactPerson>
+          <ContactData>telefoonEmail</ContactData>
+          <XMeasurement>1</XMeasurement>
+          <TypeAssessment>quickscan</TypeAssessment>
+          <Startdate>8-9-2016</Startdate>
+          <Enddate>30-11-2014</Enddate>
+          <NbrInterviews>1</NbrInterviews>
+          <Scope>scope</Scope>
+          <OrganizationalScope>organisatie</OrganizationalScope>
+        </metadata>
+        <keyareas>
+          <keyarea id="ka01" prio="N" />
+          <keyarea id="ka02" prio="N" />
+          <keyarea id="ka03" prio="N" />
+          <keyarea id="ka04" prio="N" />
+          <keyarea id="ka05" prio="N" />
+          <keyarea id="ka06" prio="N" />
+          <keyarea id="ka07" prio="N" />
+          <keyarea id="ka08" prio="N" />
+          <keyarea id="ka09" prio="N" />
+          <keyarea id="ka10" prio="N" />
+          <keyarea id="ka11" prio="N" />
+          <keyarea id="ka12" prio="N" />
+          <keyarea id="ka13" prio="N" />
+          <keyarea id="ka14" prio="N" />
+          <keyarea id="ka15" prio="N" />
+          <keyarea id="ka16" prio="N" />
+        </keyareas>
+        <checkpoints>
+          <checkpoint id="1C1" ka="ka01" value="NA">nananan</checkpoint>
+          <checkpoint id="1C2" ka="ka01" value="">Notes</checkpoint>
+          <checkpoint id="1C3" ka="ka01" value="">Notes</checkpoint>
+          <checkpoint id="1C4" ka="ka01" value="NA">nananan</checkpoint>
+          <checkpoint id="1E1" ka="ka01" value="">Notes</checkpoint>
+          <checkpoint id="1E2" ka="ka01" value="">Notes</checkpoint>
+          <checkpoint id="1E3" ka="ka01" value="">Notes</checkpoint>
+          <checkpoint id="1O1" ka="ka01" value="">Notes</checkpoint>
+          <checkpoint id="1O2" ka="ka01" value="">Notes</checkpoint>
+          <checkpoint id="1O3" ka="ka01" value="">Notes</checkpoint>
+          <checkpoint id="2C1" ka="ka02" value="">Notes</checkpoint>
+          <checkpoint id="2C2" ka="ka02" value="">Notes</checkpoint>
+          <checkpoint id="2C3" ka="ka02" value="">Notes</checkpoint>
+          <checkpoint id="2C4" ka="ka02" value="">Notes</checkpoint>
+          <checkpoint id="2E1" ka="ka02" value=" ">Notes</checkpoint>
+          <checkpoint id="2E2" ka="ka02" value=" ">Notes</checkpoint>
+          <checkpoint id="2E3" ka="ka02" value=" ">Notes</checkpoint>
+          <checkpoint id="2O1" ka="ka02" value=" ">Notes</checkpoint>
+          <checkpoint id="2O2" ka="ka02" value=" ">Notes</checkpoint>
+          <checkpoint id="3C1" ka="ka03" value="">Notes</checkpoint>
+          <checkpoint id="3C2" ka="ka03" value="">Notes</checkpoint>
+          <checkpoint id="3C3" ka="ka03" value="">Notes</checkpoint>
+          <checkpoint id="3C4" ka="ka03" value="">Notes</checkpoint>
+          <checkpoint id="3E1" ka="ka03" value=" ">Notes</checkpoint>
+          <checkpoint id="3E2" ka="ka03" value=" ">Notes</checkpoint>
+          <checkpoint id="3E3" ka="ka03" value=" ">Notes</checkpoint>
+          <checkpoint id="3O1" ka="ka03" value=" ">Notes</checkpoint>
+          <checkpoint id="3O2" ka="ka03" value=" ">Notes</checkpoint>
+          <checkpoint id="4C1" ka="ka04" value="">Notes</checkpoint>
+          <checkpoint id="4C2" ka="ka04" value="">Notes</checkpoint>
+          <checkpoint id="4C3" ka="ka04" value="">Notes</checkpoint>
+          <checkpoint id="4C4" ka="ka04" value=" ">Notes</checkpoint>
+          <checkpoint id="4E1" ka="ka04" value=" ">Notes</checkpoint>
+          <checkpoint id="4E2" ka="ka04" value=" ">Notes</checkpoint>
+          <checkpoint id="4E3" ka="ka04" value=" ">Notes</checkpoint>
+          <checkpoint id="4E4" ka="ka04" value=" ">Notes</checkpoint>
+          <checkpoint id="4O1" ka="ka04" value=" ">Notes</checkpoint>
+          <checkpoint id="4O2" ka="ka04" value=" ">Notes</checkpoint>
+          <checkpoint id="4O3" ka="ka04" value=" ">Notes</checkpoint>
+          <checkpoint id="5C1" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="5C2" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="5C3" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="5C4" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="5E1" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="5E2" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="5E3" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="5O1" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="5O2" ka="ka05" value=" ">Notes</checkpoint>
+          <checkpoint id="6C1" ka="ka06" value=" ">Notes</checkpoint>
+          <checkpoint id="6C2" ka="ka06" value=" ">Notes</checkpoint>
+          <checkpoint id="6C3" ka="ka06" value=" ">Notes</checkpoint>
+          <checkpoint id="6E1" ka="ka06" value=" ">Notes</checkpoint>
+          <checkpoint id="6E2" ka="ka06" value=" ">Notes</checkpoint>
+          <checkpoint id="6E3" ka="ka06" value=" ">Notes</checkpoint>
+          <checkpoint id="6O1" ka="ka06" value=" ">Notes</checkpoint>
+          <checkpoint id="6O2" ka="ka06" value=" ">Notes</checkpoint>
+          <checkpoint id="7C1" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="7C2" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="7C3" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="7C4" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="7E1" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="7E2" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="7E3" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="7O1" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="7O2" ka="ka07" value=" ">Notes</checkpoint>
+          <checkpoint id="8C1" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8C2" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8C3" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8C4" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8E1" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8E2" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8E3" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8E4" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8O1" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8O2" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="8O3" ka="ka08" value=" ">Notes</checkpoint>
+          <checkpoint id="9C1" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="9C2" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="9C3" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="9E1" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="9E2" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="9E3" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="9E4" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="9O1" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="9O2" ka="ka09" value=" ">Notes</checkpoint>
+          <checkpoint id="10C1" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10C2" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10C3" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10C4" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10E1" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10E2" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10E3" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10E4" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10O1" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10O2" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="10O3" ka="ka10" value=" ">Notes</checkpoint>
+          <checkpoint id="11C1" ka="ka11" value="">Notes</checkpoint>
+          <checkpoint id="11C2" ka="ka11" value=" ">Notes</checkpoint>
+          <checkpoint id="11C3" ka="ka11" value=" ">Notes</checkpoint>
+          <checkpoint id="11C4" ka="ka11" value=" ">Notes</checkpoint>
+          <checkpoint id="11E1" ka="ka11" value=" ">Notes</checkpoint>
+          <checkpoint id="11E2" ka="ka11" value=" ">Notes</checkpoint>
+          <checkpoint id="11E3" ka="ka11" value=" ">Notes</checkpoint>
+          <checkpoint id="11O1" ka="ka11" value=" ">Notes</checkpoint>
+          <checkpoint id="11O2" ka="ka11" value=" ">Notes</checkpoint>
+          <checkpoint id="11O3" ka="ka11" value="">Notes</checkpoint>
+          <checkpoint id="12C1" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="12C2" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="12C3" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="12E1" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="12E2" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="12E3" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="12E4" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="12O1" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="12O2" ka="ka12" value=" ">Notes</checkpoint>
+          <checkpoint id="13C1" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13C2" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13C3" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13C4" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13E1" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13E2" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13E3" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13E4" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13O1" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13O2" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="13O3" ka="ka13" value=" ">Notes</checkpoint>
+          <checkpoint id="14C1" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14C2" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14C3" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14E1" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14E2" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14E3" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14E4" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14O1" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14O2" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="14O3" ka="ka14" value=" ">Notes</checkpoint>
+          <checkpoint id="15C1" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="15C2" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="15C3" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="15E1" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="15E2" ka="ka15" value="">Notes</checkpoint>
+          <checkpoint id="15E3" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="15E4" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="15O1" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="15O2" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="15O3" ka="ka15" value=" ">Notes</checkpoint>
+          <checkpoint id="16C1" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16C2" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16C3" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16C4" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16E1" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16E2" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16E3" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16E4" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16O1" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16O2" ka="ka16" value=" ">Notes</checkpoint>
+          <checkpoint id="16O3" ka="ka16" value=" ">Notes</checkpoint>
+        </checkpoints>
+      </tpinextassessment>
+    </tpinextassessments>
+  </tpinext>
